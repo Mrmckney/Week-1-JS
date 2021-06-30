@@ -1,9 +1,5 @@
-
-
-
-
 // write a function to calculate tax
-
+// here is just adding some comments
 
 
 function calculateTax(){
